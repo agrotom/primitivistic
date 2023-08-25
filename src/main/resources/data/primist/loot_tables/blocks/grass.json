@@ -1,0 +1,31 @@
+{
+	"type": "minecraft:block",
+	"pools": [
+		{
+			"rolls": 1,
+			"entries": [
+				{
+					"type": "minecraft:alternatives",
+					"children": [
+						{
+							"type": "minecraft:item",
+							"name": "primist:herb",
+							"conditions": [
+								{
+									"condition": "minecraft:match_tool",
+									"predicate": {
+										"item": "primist:flint_knife"
+									}
+								},
+								{
+									"condition": "minecraft:random_chance",
+									"chance": 0.125
+								}
+							]
+						}
+					]
+				}
+			]
+		}
+	]
+}

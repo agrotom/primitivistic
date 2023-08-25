@@ -1,0 +1,6 @@
+{
+	"parent": "minecraft:item/hopper",
+	"textures": {
+		"layer0": "primist:item/hot_hopper"
+	}
+}

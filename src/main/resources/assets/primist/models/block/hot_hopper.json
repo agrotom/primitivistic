@@ -1,0 +1,9 @@
+{
+	"parent": "block/hopper",
+	"textures": {
+		"particle": "primist:block/hot_hopper_outside",
+		"top": "primist:block/hot_hopper_top",
+		"side": "primist:block/hot_hopper_outside",
+		"inside": "primist:block/hot_hopper_inside"
+	}
+}

@@ -1,0 +1,32 @@
+{
+	"conditions": [
+		{
+			"condition": "minecraft:match_tool",
+			"predicate": {
+				"item": "primist:flint_knife"
+			}
+		},
+		{
+			"condition": "minecraft:random_chance",
+			"chance": 0.125
+		},
+		{
+			"condition": "minecraft:alternative",
+			"terms": [
+				{
+					"condition": "minecraft:block_state_property",
+					"block": "minecraft:fern",
+					"properties": {
+					}
+				},
+				{
+					"condition": "minecraft:block_state_property",
+					"block": "minecraft:grass",
+					"properties": {
+					}
+				}
+			]
+		}
+	],
+	"addition": "primist:herb"
+}

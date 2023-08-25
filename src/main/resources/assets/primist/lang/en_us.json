@@ -1,0 +1,20 @@
+{
+	"item.primist.onyx": "Onyx",
+	"item.primist.tungsten_ingot": "Tungsten Ingot",
+	"item.primist.tungsten_nugget": "Tungsten Nugget",
+	"item.primist.maruk_scales": "Maruk Scales",
+	"item.primist.sunken_reptilian": "Sunken Reptilian",
+	"item.primist.myceplit_feather": "Myceplit Feather",
+	"item.primist.herb": "Herb",
+	"item.primist.dried_herb": "Dried Herb",
+	"item.primist.flint_knife": "Flint Knife",
+	"block.primist.grill_block": "Grill",
+	"block.primist.onyx_ore": "Onyx Ore",
+	"block.primist.tungsten_ore": "Tungsten Ore",
+	"block.primist.wooden_barrel": "Wooden Barrel",
+	"block.primist.hot_hopper": "Hot Hopper",
+	"entity.primist.reptile": "Maruk",
+	"entity.primist.myceplit": "Myceplit",
+	"itemGroup.material_group": "primist Materials",
+	"itemGroup.combat_group": "primist Combat"
+}

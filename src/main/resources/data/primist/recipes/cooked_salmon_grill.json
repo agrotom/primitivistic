@@ -1,0 +1,10 @@
+{
+  "type": "primist:grill_cooking",
+  "ingredient": {
+    "item": "minecraft:salmon"
+  },
+  "output": {
+  	"item": "minecraft:cooked_salmon"
+  },
+  "burnTime": 200
+}

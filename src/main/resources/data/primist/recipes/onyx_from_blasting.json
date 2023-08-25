@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:blasting",
+  "ingredient": {
+    "item": "primist:onyx_ore"
+  },
+  "result": "primist:onyx",
+  "experience": 1.0,
+  "cookingtime": 100
+}

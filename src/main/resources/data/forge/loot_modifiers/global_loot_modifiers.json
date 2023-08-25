@@ -1,0 +1,7 @@
+{
+	"replace": false,
+	"entries": [
+		"primist:herb_from_grass",
+		"primist:herb_from_bush"
+	]
+}

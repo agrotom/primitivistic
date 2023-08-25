@@ -1,0 +1,34 @@
+{
+	"variants": {
+		"facing=east,assemble=true": {
+			"model": "primist:block/grill_block_assemble",
+			"y": 90
+			},
+		"facing=east,assemble=false": {
+			"model": "primist:block/grill_block",
+			"y": 90
+			},
+		"facing=north,assemble=true": {
+			"model": "primist:block/grill_block_assemble"
+			},
+		"facing=north,assemble=false": {
+			"model": "primist:block/grill_block"
+			},
+		"facing=south,assemble=true": {
+			"model": "primist:block/grill_block_assemble",
+			"y": 180
+			},
+		"facing=south,assemble=false": {
+			"model": "primist:block/grill_block",
+			"y": 180
+			},
+		"facing=west,assemble=true": {
+			"model": "primist:block/grill_block_assemble",
+			"y": 270
+			},
+		"facing=west,assemble=false": {
+			"model": "primist:block/grill_block",
+			"y": 270
+			}
+	}
+}

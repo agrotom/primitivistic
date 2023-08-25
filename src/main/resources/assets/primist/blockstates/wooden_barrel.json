@@ -1,0 +1,19 @@
+{
+	"variants": {
+		"fluid_level=0": {
+			"model": "primist:block/wooden_barrel"
+			},
+		"fluid_level=1": {
+		"model": "primist:block/wooden_barrel_level1"
+		},
+		"fluid_level=2": {
+		"model": "primist:block/wooden_barrel_level2"
+		},
+		"fluid_level=3": {
+		"model": "primist:block/wooden_barrel_level3"
+		},
+		"fluid_level=4": {
+		"model": "primist:block/wooden_barrel_level4"
+		}
+	}
+}

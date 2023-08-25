@@ -1,0 +1,20 @@
+{
+	"item.primist.onyx": "Оникс",
+	"item.primist.tungsten_ingot": "Вольфрамовый слиток",
+	"item.primist.tungsten_nugget": "Вольфрамовый самородок",
+	"item.primist.maruk_scales": "Чешуя Марука",
+	"item.primist.sunken_reptilian": "Морской Гад",
+	"item.primist.myceplit_feather": "Перо Мицеплита",
+	"item.primist.herb": "Тюк Травы",
+	"item.primist.dried_herb": "Сушёная Трава",
+	"item.primist.flint_knife": "Кремневый Нож",
+	"block.primist.grill_block": "Гриль",
+	"block.primist.onyx_ore": "Ониксовая руда",
+	"block.primist.tungsten_ore": "Вольфрамовая руда",
+	"block.primist.wooden_barrel": "Деревянная бочка",
+	"block.primist.hot_hopper": "Нагретая воронка",
+	"entity.primist.reptile": "Марук",
+	"entity.primist.myceplit": "Мицеплит",
+	"itemGroup.material_group": "primist Материалы",
+	"itemGroup.combat_group": "primist Бой"
+}
